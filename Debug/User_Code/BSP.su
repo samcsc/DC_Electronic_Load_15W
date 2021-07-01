@@ -1,0 +1,12 @@
+BSP.c:14:5:uart_transmit_dma	24	static,ignoring_inline_asm
+BSP.c:38:7:get_temperature	40	static
+BSP.c:70:5:set_dac_voltage	24	static
+BSP.c:112:7:get_voltage	24	static
+BSP.c:132:7:get_current	24	static
+BSP.c:155:6:led_all_on	8	static
+BSP.c:166:6:led_all_off	8	static
+BSP.c:177:6:led_pc_on	8	static
+BSP.c:183:6:led_pc_off	8	static
+BSP.c:188:6:led_run_on	8	static
+BSP.c:192:6:led_run_off	8	static
+BSP.c:198:6:led_current_indication	16	static

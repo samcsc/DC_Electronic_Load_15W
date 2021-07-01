@@ -1,0 +1,10 @@
+core_cm4.h:2059:26:ITM_SendChar	16	static,ignoring_inline_asm
+APP_Task.c:72:6:mutex_creation	8	static
+APP_Task.c:75:6:task_creation	8	static
+APP_Task.c:93:6:Temperature_Task	32	static
+APP_Task.c:118:6:LED_Task	16	static
+APP_Task.c:142:6:Push_Button_Task	16	static
+APP_Task.c:165:6:Current_Regulation_Task	56	static
+APP_Task.c:228:6:Data_Stream_Task	80	static
+APP_Task.c:252:13:debug_message	104	static
+APP_Task.c:262:6:Debug_Task	32	static
